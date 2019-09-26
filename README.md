@@ -1,0 +1,1 @@
+this python notebook is to help you get start with our compatation, if you have any questions feel free to message us on facebook. If you don't have somewhere to run this code, try google colab
